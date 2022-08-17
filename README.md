@@ -1,1 +1,2 @@
 # Mission-to-Mars
+This project demonstrates scraping images, news articles, and facts, from various websites. The scraped data is then stored using a Mongo database, and presented with Flask into HTML.
